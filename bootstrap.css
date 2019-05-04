@@ -55,7 +55,7 @@ html {
 }
 
 .card-body{
-  background-color:#FEFCFF;
+  background-color:#f5ffff;
 }
 
 @-ms-viewport {
@@ -4891,7 +4891,7 @@ input[type="button"].btn-block {
 .jumbotron {
   padding: 2rem 1rem;
   margin-bottom: 2rem;
-  background-color: #C6DEFF;
+  background-color: #def8fd;
   border-radius: 0.3rem;
 }
 
